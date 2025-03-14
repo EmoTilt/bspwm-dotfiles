@@ -8,7 +8,7 @@ super + Return
 
 # program launcher
 super + d
-	~/.config/polybar/scripts/launcher.sh	
+	~/.local/bin/launcher.sh	
 
 super + w
 	thunar
